@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JustforFunsies</title>
+</head>
+<body>
+    I am building this website to assist in my learning of full stack development. The goal will be to eventually learn new skills to make myself more marketable; I love my current job but I want to grow my organization beyond what they believe they are capable. 
+    <p> 
+        My first order of business will be to create an ordered list:
+        <ol>
+            <li> item 1 </l1>
+            <li> item 2 </li>
+        </ol>
+    </p>
+</body>
+</html>
